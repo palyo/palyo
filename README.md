@@ -14,7 +14,7 @@ I am a passionate developer specializing in Android and Flutter development. At 
 
 ### 📫 How to Reach Me
 - **Email:** thoriyaprahalad@gmail.com
-- **LinkedIn:** [Thoriya Prahalad](www.linkedin.com/in/thoriya-prahalad-1b6a82137)
+- **LinkedIn:** [Thoriya Prahalad](www.linkedin.com/in/thoriya-prahalad)
 - **GitHub:** [techhuntdevelopers](https://github.com/techhuntdevelopers)
 
 ### ⚡ Fun Facts
