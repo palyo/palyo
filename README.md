@@ -15,7 +15,7 @@ I am a passionate developer specializing in Android and Flutter development. At 
 ### 📫 How to Reach Me
 - **Email:** thoriyaprahalad@gmail.com
 - **LinkedIn:** [Thoriya Prahalad](www.linkedin.com/in/thoriya-prahalad)
-- **GitHub:** [techhuntdevelopers](https://github.com/coderspacedev)
+- **GitHub:** [coderspacedev](https://github.com/coderspacedev)
 
 ### ⚡ Fun Facts
 - I love exploring new technologies and integrating them into my projects.
@@ -31,7 +31,7 @@ I am a passionate developer specializing in Android and Flutter development. At 
 - Diving deeper into Jetpack Compose.
 
 ### 🎯 My Motto
-**Develop Innovation**
+**Develop Innovative**
 
 ---
 
