@@ -1,6 +1,6 @@
 # Hi there 👋, I'm palyo
 
-**🚀 Develop Innovation**  
+**🚀 Develop Innovative**  
 **💼 Android (Java/Kotlin) & Flutter Developer | Aanibrothers Infotech, Surat, India**
 
 ### About Me
